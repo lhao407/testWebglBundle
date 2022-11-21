@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3862827342
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: light.ab
+      Dependencies: {}
+    Info_1:
+      Name: paint.ab
+      Dependencies: {}
+    Info_2:
+      Name: workbench.ab
+      Dependencies: {}
+    Info_3:
+      Name: workshop.ab
+      Dependencies: {}

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1145066368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13dd5f5c53364d9715d05490a34cda40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a78a5b2ee390080d835ff590619d9a79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96e13e429aa59a0418ff9bd2dd6726f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 351e46e3c5140634fa4a74315c191f96, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/workbench.prefab
+Dependencies: []

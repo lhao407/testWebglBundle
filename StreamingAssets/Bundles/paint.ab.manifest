@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3208689990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 454a531fdc3ac59e0a94565268b1b99f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc781199aae5d2f529d32c7ca80f1ea1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96e13e429aa59a0418ff9bd2dd6726f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 351e46e3c5140634fa4a74315c191f96, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/paint.prefab
+Dependencies: []

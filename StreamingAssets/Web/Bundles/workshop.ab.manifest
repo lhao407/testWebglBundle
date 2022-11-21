@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4285197750
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a244568dd9a8aa1e258d4b50d9aab82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b598962162abf5ab8e6d820fe5836aee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96e13e429aa59a0418ff9bd2dd6726f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 351e46e3c5140634fa4a74315c191f96, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/workshop.prefab
+Dependencies: []
